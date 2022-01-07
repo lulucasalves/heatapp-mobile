@@ -9,7 +9,7 @@ import { Auth } from '../../hooks'
 import { styles } from './styles';
 
 export function SignInBox() {
-  const { signIn } = Auth()
+  const { signIn, isSigningIn } = Auth()
 
   return (
     <View style={styles.container}>
@@ -19,6 +19,7 @@ export function SignInBox() {
         color={COLORS.BLACK_PRIMARY}
         backgroundColor={COLORS.YELLOW}
         onPress={signIn}
+        isLoading={isSigningIn}
       />
 
     </View>

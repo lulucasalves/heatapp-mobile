@@ -10,7 +10,7 @@ export type MessageProps = {
   text: string,
   user: {
     name: string,
-    avatar_url: string
+    avatar_url?: string
   }
 }
 
