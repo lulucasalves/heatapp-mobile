@@ -3,9 +3,9 @@
 <p >Api do projeto: <a href="https://github.com/lulucasalves/heatnode-api-back/" >heatnode-api-back</a></p>
 <table>
   <tr>
-    <td valign="top"><img src="" /></td>
-    <td valign="top"><img src="" /></td>
-  </tr>
+    <td valign="top"><img src="https://github.com/lulucasalves/heatapp-project-mobile/blob/main/.github/img1.jpeg" /></td>
+    <td valign="top"><img src="https://github.com/lulucasalves/heatapp-project-mobile/blob/main/.github/img2.jpeg" /></td>
+ 2</tr>
 </table>
 <br/>
 <h2>Tecnologias útilizadas</h2>
