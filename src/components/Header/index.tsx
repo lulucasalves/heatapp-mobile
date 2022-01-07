@@ -14,7 +14,7 @@ export function Header() {
         <TouchableOpacity>
         <Text style={styles.logoutText}>Sair</Text>
       </TouchableOpacity>
-        <UserPhoto imageUri="https://avatars.githubusercontent.com/u/72206769?v=4" />
+        <UserPhoto imageUri="" />
         </View>
     </View>
   );

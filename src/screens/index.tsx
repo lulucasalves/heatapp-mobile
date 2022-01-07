@@ -12,7 +12,7 @@ export function Home() {
       <Header />
       <MessageList />
 
-      <SendMessageForm />
+      <SignInBox />
     </View>
   )
 }
